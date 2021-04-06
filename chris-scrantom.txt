@@ -1,5 +1,5 @@
  
- link to finished codepen:  https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
+ link to finished codepen:  https://codepen.io/cjs4373/pen/vYgJbXP?editors=1100
 
 
     1. What is Semantic HTML? this refers to tags that fall under the list of semantic tags recommended by the w3c. They are semantic, meaning that they have inherent semantic meaning that is easy to understand at a glance.
